@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifyRetryBucket",
+  "policyUUID": "cae3961b",
+  "bucketName": "amplifyretry382e71c58009416888ddd31e15f7be6c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
